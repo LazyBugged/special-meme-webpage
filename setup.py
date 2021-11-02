@@ -7,8 +7,8 @@ LONG_DESCRIPTION = 'Python package'
 setup(
         name="lazybugged", 
         version=VERSION,
-        author="Max Base and ...",
-        author_email="<youremail@email.com>",
+        author="Max Base and Tarunav.BA",
+        author_email="tarunavba@gmail.com",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
