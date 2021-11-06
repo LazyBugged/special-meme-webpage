@@ -1,4 +1,4 @@
-# https://github.com/LazyBugged
+# https://github.com/LazyBugged/special-meme-website/
 # 11/02/2021
 
 from flask import Flask
